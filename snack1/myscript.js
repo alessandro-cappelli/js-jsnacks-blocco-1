@@ -15,5 +15,5 @@ do{
 
 }while(somma<50);
 
-console.log(numeriArr)
+console.log(numeriArr);
 document.writeln(somma);
