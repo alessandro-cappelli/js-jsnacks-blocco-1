@@ -6,7 +6,7 @@
 let N = parseInt(prompt("inserisci un numero"))
 let NArr = []
 
-for(let i=0; i<N; i++){
+for(let i=0; i<10; i++){
     let randN = Math.floor(Math.random() *100 + 1);
     NArr.push(randN);
     console.log(NArr)
